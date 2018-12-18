@@ -1,0 +1,27 @@
+
+
+
+body{
+    background-image:url("https://i.pinimg.com/736x/a4/3c/6d/a43c6d3921b1e8ea84a193781b125c77--green-wallpaper-wallpaper-backgrounds.jpg");
+}
+img{
+    width:300px;
+    height:auto;
+}
+div{
+    display:flex;
+    align-items:center;
+    justify-content:center;
+}
+p{
+    text-align:center;
+    color:white;
+}
+.lucky{
+    display:none;
+}
+.notlucky{
+    display:none;
+}
+
+
